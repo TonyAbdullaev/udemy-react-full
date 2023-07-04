@@ -1,10 +1,10 @@
-import List from "./tutorial/05-leverage-javascript/starter/List.jsx";
+import Stater from "./tutorial/06-forms/starter/03-multiple-inputs.jsx";
 
 function App() {
   return (
     <div className='container'>
-      <h2>Advanced React</h2>
-        <List />
+      <h1>Advanced React</h1>
+        <Stater />
     </div>
   );
 }
