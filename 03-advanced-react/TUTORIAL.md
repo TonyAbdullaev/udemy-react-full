@@ -39,7 +39,7 @@ import Starter from './tutorial/01-useState/starter/01-error-example.jsx';
 
 - in App.jsx setup import and container div
 
-  Setup Challenge :
+###### Setup Challenge :
 
 - create count variable
 - display value in the JSX
@@ -138,7 +138,7 @@ There are a few ways that you can trigger a re-render in a React component:
 import Starter from './tutorial/01-useState/starter/03-useState-array.jsx';
 ```
 
-Setup Challenge :
+###### Setup Challenge :
 
 - import data
 - setup a state value
@@ -222,7 +222,7 @@ export default UseStateArray;
 import Starter from './tutorial/01-useState/starter/04-useState-object.jsx';
 ```
 
-Setup Challenge :
+###### Setup Challenge :
 
 - setup three state values
   - name(string)
@@ -311,7 +311,7 @@ export default UseStateObject;
 import Starter from './tutorial/01-useState/starter/05-useState-gotcha.jsx';
 ```
 
-Setup Challenge :
+###### Setup Challenge :
 
 - setup a state value and the button
 - add functionality to increase value by 1
@@ -537,7 +537,7 @@ import Starter from './tutorial/02-useEffect/starter/04-fetch-data.jsx';
 
 - later in the course we will use axios
 
-Setup Challenge :
+###### Setup Challenge :
 
 - import useState and useEffect
 - setup state value
@@ -603,7 +603,7 @@ import Starter from './tutorial/02-useEffect/starter/05-cleanup-function.jsx';
 
 Will Cover After 03-conditional-rendering
 
-- Setup Challenge :
+###### Setup Challenge :
 
 - create state value
 - in jsx return button which toggles state value
@@ -771,7 +771,7 @@ export default MultipleReturnsBasics;
 import Starter from './tutorial/03-conditional-rendering/starter/02-multiple-returns-fetch-data.jsx';
 ```
 
-Setup Challenge :
+###### Setup Challenge :
 
 - practice on setting up state values and data fetching
 - create state variable
@@ -1114,7 +1114,7 @@ In this example, the displayName() function returns the name property of the use
 import Starter from './tutorial/03-conditional-rendering/starter/04-short-circuit-overview.jsx';
 ```
 
-Setup Challenge :
+###### Setup Challenge :
 
 - create two state values
 - one "falsy" and second "truthy"
@@ -1444,7 +1444,7 @@ import {Home, About} from 'pathToFolder/Pages
 
 /tutorial/05-leverage-javascript/starter
 
-Setup Challenge
+###### Setup Challenge
 
 - take a look at the people in array in data.js
 - create List.jsx component
