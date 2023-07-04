@@ -1,4 +1,4 @@
-import Stater from "./tutorial/06-forms/starter/03-multiple-inputs.jsx";
+import Stater from "./tutorial/06-forms/starter/04-other-inputs.jsx";
 
 function App() {
   return (
