@@ -1,4 +1,4 @@
-import Stater from "./tutorial/08-custom-hooks/starter/02-fetch-data.jsx";
+import Stater from "./tutorial/09-context-api/starter/components/Navbar.jsx";
 
 function App() {
   return (
